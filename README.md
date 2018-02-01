@@ -1,2 +1,2 @@
 #Hello World!
-My name is GITHUB_LarryZam
+My name is LarryZam
